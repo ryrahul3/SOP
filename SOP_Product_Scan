@@ -1,0 +1,41 @@
+1.	Problem Description
+a.	Description
+    While purchasing an item from a retail store one of the concerns faced by consumers is 
+	to know if the item contains any allergic ingredients. This concept will facilitate the consumer 
+	to get information about any allergic ingredients contained in the item.
+b.	Business Context (Describe the problem and its impact)
+    Allergic reactions can be fatal, so while purchasing a product knowing it is a better customer experience. 
+	It will also benefit the retailer as it will reduce the return of the products. Additionally, 
+	it will also protect the retailer and the vendor from legal liabilities. As a strategic technology group, 
+	it is imperative to come up with ideas that can bring change for good to end consumers to be ahead in 
+	the competition and this idea aligns to that philosophy. Additionally, it adds value to the Infosys brand 
+	and aids in additional revenue.
+c.	Key Stakeholders
+	End consumer of retail products globally
+2.	Solution Features
+a.	Deliverables
+	Provide a mobile app using which consumer can take picture of the ingredients from the product label 
+	and upload the image. The mobile should also have option to update the user profiles. The allergic information 
+	of the user can also be fetched from prescription/other services. Use LLM models to extract the ingredients. 
+	Once the ingredients are available as text another prompt can be sent to LLM chat completion API to respond 
+	with allergy information from the ingredients and provide recommendation to user.
+b.	Must Have 
+	•	A mobile app
+	•	Ability to edit and update user information
+	  Manually From prescription images From external sources (like ABDM)
+  •	Ability to take picture of ingredients from the product label and submit for response.
+c.	Good to Have
+    The same concept can be extended to other health risks like identifying contents for diabetes, cholesterol etc.
+d.	Existing Solutions/Products
+    Not known if any such solution/product exists as of today.
+e.	Reference
+    https://platform.openai.com/docs/guides/vision
+    AWS/Azure/GCP
+f.	Relevance
+    The solution will be utilized by end consumer in retail industry globally while purchasing products from any retailer. 
+3.	Requirement
+a.	Software Required, if any (Mention suggested technologies to be used)
+     NodeJS/Java/Python, LLM API call.
+b.	Hardware Required, if any (will need to be funded by the account)
+    API Gateway, Serverless components for logic implementation, Monitoring components, Security components, 
+	Database, Cloud storage.
