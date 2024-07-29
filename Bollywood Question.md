@@ -184,3 +184,77 @@ C) Ishaan
 B) A sports academy
 A) Govind
 
+### Multiple Choice Questions
+
+1. **In "Chhichhore," why does Anni decide to share his college memories with his son Raghav?**
+   - A) To help Raghav pass his exams
+   - B) To inspire Raghav to play sports
+   - C) To help Raghav regain the will to live after a suicide attempt
+   - D) To convince Raghav to join his alma mater
+
+2. **In "Chhichhore," which hostel is Anni and his friends part of during their college days?**
+   - A) H3
+   - B) H4
+   - C) H7
+   - D) H10
+
+3. **In "Chhichhore," what is the main event that Anni and his friends compete in at their college?**
+   - A) Cultural Festival
+   - B) Sports Championship
+   - C) General Championship (GC)
+   - D) Science Fair
+
+4. **In "Chhichhore," which character is known for their humorous and lecherous antics?**
+   - A) Anni
+   - B) Derek
+   - C) Sexa
+   - D) Mummy
+
+5. **In "Chhichhore," what happens to Raghav that prompts Anni and Maya to come together?**
+   - A) He runs away from home
+   - B) He fails an entrance exam
+   - C) He attempts suicide
+   - D) He wins a scholarship
+
+6. **In "Chhichhore," who is Anni's love interest during his college days?**
+   - A) Maya
+   - B) Vidya
+   - C) Neha
+   - D) Radha
+
+7. **In "Chhichhore," which friend is known for having a short temper?**
+   - A) Sexa
+   - B) Acid
+   - C) Bewda
+   - D) Derek
+
+8. **In "Chhichhore," how does the H4 gang transform their reputation at the college?**
+   - A) By excelling in academics
+   - B) By winning a debate competition
+   - C) By performing well in the General Championship
+   - D) By organizing a successful event
+
+9. **In "Chhichhore," which character is a disciplined athlete in the group?**
+   - A) Anni
+   - B) Derek
+   - C) Mummy
+   - D) Bewda
+
+10. **In "Chhichhore," what is the central message Anni tries to convey to Raghav?**
+    - A) Success is everything
+    - B) Friends are more important than family
+    - C) Failure is not the end and resilience is crucial
+    - D) Winning is the only thing that matters
+
+### Answers:
+1. C) To help Raghav regain the will to live after a suicide attempt
+2. B) H4
+3. C) General Championship (GC)
+4. C) Sexa
+5. C) He attempts suicide
+6. A) Maya
+7. B) Acid
+8. C) By performing well in the General Championship
+9. B) Derek
+10. C) Failure is not the end and resilience is crucial
+
