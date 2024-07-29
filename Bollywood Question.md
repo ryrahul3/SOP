@@ -146,36 +146,42 @@
 9. C) She is his daughter-in-law
 10. A) Take care of Radha
 
+### Multiple Choice Questions
+
 1. In Kai Po Che!, what is the main passion of the three friends, Ishaan, Omi, and Govind?
 
-A) Music
-B) Cricket
-C) Dancing
-D) Acting
+- A) Music
+- B) Cricket
+- C) Dancing
+- D) Acting
+
 2. Which of the following events is a significant turning point in the movie Kai Po Che!?
 
-A) A school play
-B) An earthquake
-C) A cricket match
-D) A dance competition
+- A) A school play
+- B) An earthquake
+- C) A cricket match
+- D) A dance competition
+
 3. In Kai Po Che!, which character is a former district-level cricketer?
 
-A) Omi
-B) Govind
-C) Ishaan
-D) Vidya
+- A) Omi
+- B) Govind
+- C) Ishaan
+- D) Vidya
+
 4. What business do the friends start together in Kai Po Che!?
 
-A) A restaurant
-B) A sports academy
-C) A dance school
-D) A music band
+- A) A restaurant
+- B) A sports academy
+- C) A dance school
+- D) A music band
+
 5. In Kai Po Che!, who among the friends falls in love with Ishaan's sister, Vidya?
 
-A) Govind
-B) Omi
-C) Ishaan
-D) Manav
+- A) Govind
+- B) Omi
+- C) Ishaan
+- D) Manav
 
 ### Answers:
 B) Cricket
